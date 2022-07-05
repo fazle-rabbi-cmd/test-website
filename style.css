@@ -64,9 +64,12 @@ h1 {
 
 .image2 img {
     width: 50%;
-    padding-left: 100px;
-    padding-top: 40px;
+    padding-left: 50px;
 
+}
+
+.nicehnamai {
+    padding-top: 80px;
 }
 
 .bg1 {
@@ -74,8 +77,6 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
-
-
 }
 
 .tocenter {
